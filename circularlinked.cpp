@@ -58,7 +58,7 @@ class project
         X*p;
         if(last==NULL)
         {
-            cout<<"nothing present in list so you try your best int the world";
+            cout<<"nothing present in circular linked  list";
         }
         else
         {
